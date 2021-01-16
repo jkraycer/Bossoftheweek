@@ -1,0 +1,236 @@
+{
+    "bosses":[
+      {
+        "id": 0,
+        "Boss": "Grotesque Guardians",
+        "Classification": "slayer",
+        "Description": "The Grotesque Guardians are a pair of gargoyles, Dusk and Dawn, found on the Slayer Tower's rooftop, whose entrance is found on the 3rd floor.",
+        "website": "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+      },
+      {
+        "id": 1,
+        "Boss": "Abyssal Sire",
+        "Classification": "slayer",
+        "Description": "The Abyssal Sire is an abyssal demon slayer boss that requires level 85 Slayer to kill. It cannot be killed without an abyssal demon or Abyssal Sire slayer task, after one has unlocked the latter. Although it resides in a multi-combat area, it is a solo-only boss.",
+        "website": "https://oldschool.runescape.wiki/w/Abyssal_Sire"
+      },
+      {
+        "id": 2,
+        "Boss": "Kraken",
+        "Classification": "slayer",
+        "Description": "The Kraken is a stronger and larger version of the cave kraken. It requires level 87 Slayer to kill and cannot be boosted. Located at the Kraken Cove, it can only be attacked if the player has cave krakens as a Slayer task, which also requires level 50 Magic. Alongside its non-boss variants, it is the only monster that drops the trident of the seas and Kraken tentacle.",
+        "website": "https://oldschool.runescape.wiki/w/Kraken#Kraken"
+      },
+      {
+        "id": 3,
+        "Boss": "Thermonuclear smoke devil",
+        "Classification": "slayer",
+        "Description": "The thermonuclear smoke devil, often referred to as Thermy, is the boss version of the smoke devil, found in the Smoke Devil Dungeon. These require a minimum of 93 Slayer to kill. Located at the Smoke Devil Dungeon south of Castle Wars, the Thermonuclear smoke devil can only be attacked on a smoke devil task, with the exception of one kill for the Western Provinces Diary (provided that the player has 93 Slayer without boosting).",
+        "website": "https://oldschool.runescape.wiki/w/Thermonuclear_smoke_devil"
+      },
+      {
+        "id": 4,
+        "Boss": "Cerberus",
+        "Classification": "slayer",
+        "Description": "Cerberus is a level 318 hellhound boss that is located in her lair, deep beneath the Taverley Dungeon in the cave entrance in the north-east part of the hellhound area which is found beyond the poisonous spiders. Cerberus requires a Slayer level of 91, along with a task of hellhounds, herself or as part of an elite clue scroll task in order to be fought. In the event of the hellhound or elite clue scroll task, wild pies may be used to boost the player's Slayer level.",
+        "website": "https://oldschool.runescape.wiki/w/Cerberus"
+      },
+      {
+        "id": 5,
+        "Boss": "Alchemical Hydra",
+        "Classification": "slayer",
+        "Description": "The Alchemical Hydra is a boss found in lower level of the Karuulm Slayer Dungeon in Mount Karuulm, requiring level 95 Slayer to kill. The Alchemical Hydra was the creation of a Dragonkin named Karuulm. While Karuulm saw promise in his creation, he nevertheless saw it as a failure because he could not replicate its traits, and abandoned it along with his other creations: the Wyrms, Drakes, and Hydras.",
+        "website": "https://oldschool.runescape.wiki/w/Alchemical_Hydra"
+      },
+      {
+        "id": 6,
+        "Boss": "Chaos Fanatic",
+        "Classification": "Wilderness",
+        "Description": "The Chaos Fanatic is an insane mage that resides west of the Lava Maze.",
+        "website": "https://oldschool.runescape.wiki/w/Chaos_Fanatic"
+      },
+      {
+        "id": 7,
+        "Boss": "Crazy Archaeologist",
+        "Classification": "Wilderness",
+        "Description": "Bellock, the crazy archaeologist is an insane individual and demi-boss who resides in the ruins south of The Forgotten Cemetery.",
+        "website": "https://oldschool.runescape.wiki/w/Crazy_archaeologist"
+      },
+      {
+        "id": 8,
+        "Boss": "Scorpia",
+        "Classification": "Wilderness",
+        "Description": "Scorpia is a large female scorpion that resides in a cave beneath the Scorpion Pit.",
+        "website": "https://oldschool.runescape.wiki/w/Scorpia"
+      },
+      {
+        "id": 9,
+        "Boss": "King Black Dragon",
+        "Classification": "Wilderness",
+        "Description": "The King Black Dragon, commonly referred to as KBD, is a three-headed dragon located in his lair deep in the Wilderness.",
+        "website": "https://oldschool.runescape.wiki/w/King_Black_Dragon"
+      },
+      {
+        "id": 10,
+        "Boss": "Chaos Elemental",
+        "Classification": "Wilderness",
+        "Description": "The Chaos Elemental is a dark cloud with six tentacles that dwells in the members-only section of the Wilderness, just west of the Rogues' Castle. ",
+        "website": "https://oldschool.runescape.wiki/w/Chaos_Elemental"
+      },
+      {
+        "id": 11,
+        "Boss": "Vet'ion",
+        "Classification": "Wilderness",
+        "Description": "Vet'ion is a Zamorakian skeletal champion that resides north of the Bone Yard and south of Lava Dragon Isle, and he is the only monster to drop the ring of the gods. Like other bosses in the Wilderness, he can also drop the dragon pickaxe.",
+        "website": "https://oldschool.runescape.wiki/w/Vet%27ion"
+      },
+      {
+        "id": 12,
+        "Boss": "Venenatis",
+        "Classification": "Wilderness",
+        "Description": "Venenatis is a large poison spider that resides east of the Bone Yard, and is the only monster to drop the treasonous ring. She uses multi-target Magic and long-ranged melee attacks.",
+        "website": "https://oldschool.runescape.wiki/w/Venenatis"
+      },
+      {
+        "id": 13,
+        "Boss": "Callisto",
+        "Classification": "Wilderness",
+        "Description": "Callisto is an enormous bear empowered by the corruption of the Wilderness that resides south of the Demonic Ruins and is the only monster to drop the tyrannical ring.",
+        "website": "https://oldschool.runescape.wiki/w/Callisto"
+      },
+      {
+        "id": 14,
+        "Boss": "Wintertodt",
+        "Classification": "skilling",
+        "Description": "The Wintertodt is a minigame-style boss that is fought using skills rather than combat. It is located in the Northern Tundras in Great Kourend, bringing a storm of perpetual winter and unfathomable cold.",
+        "website": "https://oldschool.runescape.wiki/w/Wintertodt"
+      },
+      {
+        "id": 15,
+        "Boss": "Zalcano",
+        "Classification": "skilling",
+        "Description": "Zalcano is a demon imprisoned beneath Prifddinas that is fought using skilling rather than conventional combat.",
+        "website": "https://oldschool.runescape.wiki/w/Zalcano"
+      },
+      {
+        "id": 16,
+        "Boss": "Chambers of Xeric",
+        "Classification": "Raids",
+        "Description": "The Chambers of Xeric is a large cave system underneath Mount Quidamortem, built by Xeric in the Kebos Lowlands. Released on 5 January 2017, it is the first raid released in Old School RuneScape.",
+        "website": "https://oldschool.runescape.wiki/w/Chambers_of_Xeric"
+      },
+      {
+        "id": 17,
+        "Boss": "Theatre of Blood",
+        "Classification": "Raids",
+        "Description": "The Theatre of Blood is a large arena located beneath the castle of Ver Sinhaza.",
+        "website": "https://oldschool.runescape.wiki/w/Theatre_of_Blood"
+      },
+      {
+        "id": 18,
+        "Boss": "Barrows",
+        "Classification": "minigame",
+        "Description": "The Barrows brothers were a band of six legendary Saradominist warriors who ventured into Morytania during the God Wars, leading the Morytania Campaign. ",
+        "website": "https://oldschool.runescape.wiki/w/Barrows_brothers"
+      },
+      {
+        "id": 19,
+        "Boss": "Giant mole",
+        "Classification": "miniboss",
+        "Description": "The Giant Mole is a boss found in the Falador Mole Lair, just under Falador Park. The Giant Mole's origin and creation are described as a slight accident involving a bottle of Malignius-Mortifer's-Super-Ultra-Flora-Growth-Potion.",
+        "website": "https://oldschool.runescape.wiki/w/Giant_Mole"
+      },
+      {
+        "id": 20,
+        "Boss": "Dagannoth Kings",
+        "Classification": "other",
+        "Description": "The Dagannoth Kings are a group of three dagannoths that live deep in the cave on Waterbirth Island which is a multiway combat area.",
+        "website": "https://oldschool.runescape.wiki/w/Dagannoth_Kings"
+      },
+      {
+        "id": 21,
+        "Boss": "The Gauntlet",
+        "Classification": "other",
+        "Description": "The Gauntlet is a solo minigame in Prifddinas in which the player is given a limited amount of time to explore a randomly generated dungeon layout, gather various resources and supplies by skilling and defeating crystalline monsters, all in preparation to defeat the Crystalline Hunllef, which is based upon a deadly wolf-like predator from the elven homeworld of Tarddiad.",
+        "website": "https://oldschool.runescape.wiki/w/The_Gauntlet"
+      },
+      {
+        "id": 22,
+        "Boss": "Deranged Archaeologist",
+        "Classification": "other",
+        "Description": "The deranged archaeologist is a demi-boss located on Fossil Island, at the southern end of the Tar Swamp. An axe is required to reach him. Directly before the area is a spine that will occasionally hit for 10 and apply poison damage.",
+        "website": "https://oldschool.runescape.wiki/w/Deranged_archaeologist"
+      },
+      {
+        "id": 23,
+        "Boss": "Sarachnis",
+        "Classification": "other",
+        "Description": "Sarachnis, the mother of the temple spiders, is a mid-level boss found in the Forthos Dungeon, in a former burial tomb south of the Spider Den. She can be killed as part of a spider Slayer task.",
+        "website": "https://oldschool.runescape.wiki/w/Sarachnis"
+      },
+      {
+        "id": 24,
+        "Boss": "Kalphite Queen",
+        "Classification": "other",
+        "Description": "The Kalphite Queen (Kalphiscarabeinae pasha), also called the KQ, is the strongest of the Kalphites.",
+        "website": "https://oldschool.runescape.wiki/w/Kalphite_Queen"
+      },
+      {
+        "id": 25,
+        "Boss": "Kree'arra",
+        "Classification": "god wars dungeon",
+        "Description": "Kree'arra is one of Armadyl's most trusted generals.",
+        "website": "https://oldschool.runescape.wiki/w/Kree%27arra"
+      },
+      {
+        "id": 26,
+        "Boss": "Commander Zilyana",
+        "Classification": "god wars dungeon",
+        "Description": "ommander Zilyana is the appointed leader of Saradomin's forces in the God Wars Dungeon and one of only two living representatives of the Icyene race in Old School RuneScape, the other being the half-human half-Icyene Safalaan.",
+        "website": "https://oldschool.runescape.wiki/w/Commander_Zilyana"
+      },
+      {
+        "id": 27,
+        "Boss": "K'ril Tsutsaroth",
+        "Classification": "god wars dungeon",
+        "Description": "K'ril Tsutsaroth is the boss of the Zamorak Fortress in the God Wars Dungeon. To gain access to his chamber, players must have slain 40 Zamorakians throughout the dungeon. He uses melee and magic attacks, and can occasionally negate the Protect from Melee prayer should players attempt to use it.",
+        "website": "https://oldschool.runescape.wiki/w/K%27ril_Tsutsaroth"
+      },
+      {
+        "id": 28,
+        "Boss": "General Graardor",
+        "Classification": "god wars dungeon",
+        "Description": "General Graardor is the leader of Bandos' forces within the God Wars Dungeon. He is the only known living member of the Ourg race in Old School RuneScape.",
+        "website": "https://oldschool.runescape.wiki/w/General_Graardor"
+      },
+      {
+        "id": 29,
+        "Boss": "Zulrah",
+        "Classification": "money",
+        "Description": "Zulrah is a level 725 solo-only snake boss. Players can only harm it with Ranged or Magic; though Zulrah can be reached with a halberd, it is immune to melee attacks. In order to access Zulrah, players must have completed Regicide to the point of reaching Port Tyras.",
+        "website": "https://oldschool.runescape.wiki/w/Zulrah"
+      },
+      {
+        "id": 30,
+        "Boss": "Vorkath",
+        "Classification": "money",
+        "Description": "Vorkath (roughly translated as pathetic failure/weakling/runt in the dragonkin's language) is a draconic boss-monster first encountered during the Dragon Slayer II quest as the penultimate boss.",
+        "website": "https://oldschool.runescape.wiki/w/Vorkath"
+      },
+      {
+        "id": 31,
+        "Boss": "Corporal Beast",
+        "Classification": "AIDS",
+        "Description": "The Corporeal Beast, often referred to simply as Corp, is a large monster residing in its cave, accessible via a games necklace or through an entrance in level 21 Wilderness east of the Graveyard of Shadows.",
+        "website": "https://oldschool.runescape.wiki/w/Corporeal_Beast"
+      },
+      {
+        "id": 32,
+        "Boss": "Nightmare",
+        "Classification": "AIDS ",
+        "Description": "The Nightmare of Ashihama, often simply referred to as The Nightmare, is a large, otherworldly horror who feeds on the life force of sleeping people, giving her victims horrible nightmares until their life force is completely drained and expires. There are no requirements to fight The Nightmare other than access to Morytania.",
+        "website": "https://oldschool.runescape.wiki/w/The_Nightmare"
+      }
+    ]
+  }
+  
